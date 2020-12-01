@@ -12,5 +12,5 @@
 
  Kover je napisan u Pythonu i Cythonu. Na danom linku (https://aldro61.github.io/kover/index.html) nalazi se tutorial za instalaciju i koistenje Kovera.
 
- [1] Drouin, A., Giguère, S., Déraspe, M., Marchand, M., Tyers, M., Loo, V. G., Bourgault, A. M.,Laviolette, F. & Corbeil, J. (2016). Predictive computational phenotyping and biomarker discovery using reference-free genome comparisons. BMC Genomics, 17(1), 754.
+ [1] Drouin, A., Giguère, S., Déraspe, M., Marchand, M., Tyers, M., Loo, V. G., Bourgault, A. M.,Laviolette, F. & Corbeil, J. (2016). Predictive computational phenotyping and biomarker discovery using reference-free genome comparisons. BMC Genomics, 17(1), 754. \
  [2] Drouin, A., Letarte, G., Raymond, F., Marchand, M., Corbeil, J., & Laviolette, F. (2019)Interpretable genotype-to-phenotype classifiers with performance guarantees. Scientific Reports, 9(1), 4071.
